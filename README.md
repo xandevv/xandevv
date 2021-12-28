@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Ironstate: 1914](https://xan14.itch.io)
 
-- 👨‍💻 All of my projects are available at [https://catxan.itch.io/](https://catxan.itch.io/)
+- 👨‍💻 All of my projects are available at [Itch.io](https://xan14.itch.io)
 
 - 📝 I regularly post devlogs on [https://www.youtube.com/channel/UCHV9bpEZQ_AhQZLx9gzShFg](https://www.youtube.com/channel/UCHV9bpEZQ_AhQZLx9gzShFg)
 
