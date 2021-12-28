@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xandevv&label=Profile%20views&color=0e75b6&style=flat" alt="xandevv" /> </p>
 
-<p align="left"> <a href="https://twitter.com/catxan_" target="blank"><img src="https://img.shields.io/twitter/follow/catxan_?logo=twitter&style=for-the-badge" alt="catxan_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/henryk997_" target="blank"><img src="https://img.shields.io/twitter/follow/catxan_?logo=twitter&style=for-the-badge" alt="catxan_" /></a> </p>
 
 - 🔭 I’m currently working on [Ironstate: 1914](https://xan14.itch.io)
 
