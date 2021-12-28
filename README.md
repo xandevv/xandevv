@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/catxan_" target="blank"><img src="https://img.shields.io/twitter/follow/catxan_?logo=twitter&style=for-the-badge" alt="catxan_" /></a> </p>
 
-- 🔭 I’m currently working on [Arcticmind](https://gamejolt.com/games/Arcticmind/634202)
+- 🔭 I’m currently working on [Ironstate: 1914](https://xan14.itch.io)
 
 - 👨‍💻 All of my projects are available at [https://catxan.itch.io/](https://catxan.itch.io/)
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/catxan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="catxan_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xan" height="30" width="40" /></a>
+<a href="https://twitter.com/henryk997_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="catxan_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCHV9bpEZQ_AhQZLx9gzShFg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
